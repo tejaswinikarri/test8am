@@ -1,2 +1,3 @@
 #!bin/bash
-echo "myfirst script"
+echo "myfirst"
+echo "bye"

@@ -1,2 +1,2 @@
 #!bin/bash
-echo "mysecond script"
+echo "hai"
